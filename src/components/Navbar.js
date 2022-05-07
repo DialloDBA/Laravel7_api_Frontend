@@ -13,7 +13,7 @@ const Navbar = () => {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav pull-right">
                     <li className="nav-item">
-                        <NavLink className="nav-link" to="/create" tabindex="-1" aria-disabled="true">Create a Product</NavLink>
+                        <NavLink className="nav-link" to="/create" tabIndex="-1" aria-disabled="true">Create a Product</NavLink>
                     </li>
                 </ul>
             </div>
